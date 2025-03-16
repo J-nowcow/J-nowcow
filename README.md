@@ -6,3 +6,5 @@
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=changhw)](https://solved.ac/changhw)
 
 [![CodeForces Profile](https://cf.leed.at?id=now_cow)](https://codeforces.com/profile/now_cow)
+
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=now-cow&theme={santorini})](https://github.com/loosie/github-readme-tistory-card)
