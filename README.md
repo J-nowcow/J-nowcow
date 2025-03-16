@@ -7,6 +7,6 @@
 
 [![CodeForces Profile](https://cf.leed.at?id=now_cow)](https://codeforces.com/profile/now_cow)
 
-[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=now-cow&theme={santorini})](https://github.com/loosie/github-readme-tistory-card)
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=now-cow&theme={santorini})](https://now-cow.tistory.com/)
 
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name={now-cow}&postId={defualt})](https://github.com/loosie/github-readme-tistory-card)
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=now-cow&postId={defualt})](https://now-cow.tistory.com/)
